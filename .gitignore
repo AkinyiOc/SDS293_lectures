@@ -1,5 +1,9 @@
+# Other files
+ISLpython.pdf
+ISLR.pdf
 
 # Misc files
+.vscode/*
 .DS_Store
 
 # Source code for lectures
