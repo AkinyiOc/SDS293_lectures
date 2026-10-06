@@ -6,8 +6,48 @@
 - [Moodle](https://moodle.smith.edu/course/view.php?id=57160)
 
 
-## Lec 04-1 - Thu 9/24: Introduction to Supervised Learning
+## Lec 04-2 - Tue 9/29: k-Nearest Neighbors
 
+### Admin
+
+- If you haven't already, submit your desired secret code name [here](https://docs.google.com/forms/d/e/1FAIpQLSdxMbX_CiNiy9e7BUjwFLwapdrQoAhoZBcgp_9RnPMIK5VMVw/viewform?usp=publish-editor)
+- Slack
+    - Go to `#general` and answer poll on when to do quizzes during lecture.
+    - See my post in `#questions`
+- Problem Set 1 assigned on Monday (In groups)
+
+
+### Class
+
+- Lecture: Finish Lec04-1 Intro to Supervised Learnings
+- Lecture: Transformations, scaling, and pipelines
+- `HW4` on transformations, scaling, and pipelines assigned
+  - Accept `HW4` [here](https://classroom50.org/2026-09-SDS293/2026-09-sds293-modeling-for-machine-lear/assignments/hw4/accept). Look at the instructions for cloning `HW2` to ensure you don't clone the `HW4` repo inside another repo.
+  - You will be submitting your completed versions of `lab04-2` on transformations, scaling, and pipelines
+
+  
+
+## Lec 04-1 - Tue 9/29: Intro to Supervised Learning
+
+### Admin
+
+- Quiz4 topics include essay handed out in-class
+    - Quote from Prof. Nikko Stevens: "We're only going to try these ideas on like a shirt. No one is forcing you to buy it."
+    - In-class discussion next Tuesday after quiz
+    - Identity of author and title will be revealed then. Essay was written in 2026
+- HW1 & HW2 grades: Almost ready. We'll be delivering anonymized feedback for HW and problem sets using the same system as previous semesters
+    - Example from [previous semester](https://docs.google.com/spreadsheets/d/e/2PACX-1vTEPqb1aUWikvhskP2qbixh4FefEm_XW3ltMLtA1lGEq8U4FPNLArKGzpO11xf3ZgI7zKd_dQAMsiVk/pubhtml?gid=438820188&single=true)
+    - Submit your desired secret code name [here](https://docs.google.com/forms/d/e/1FAIpQLSdxMbX_CiNiy9e7BUjwFLwapdrQoAhoZBcgp_9RnPMIK5VMVw/viewform?usp=publish-editor)
+
+
+### Class
+
+- Go over Quiz 2
+- HW2 discussion: Read HW2 reflections in [`HW_feedback.md`](HW_feedback.md)
+- Lecture: 
+    - What is ML slides
+    - Introduction to Supervised Learning
+- Quiz at 11:55am. Always check both sides of page for questions.
 
 
 ## Lec 03-2 - Thu 9/24: Principal Components Analysis
