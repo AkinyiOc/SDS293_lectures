@@ -6,7 +6,60 @@
 - [Moodle](https://moodle.smith.edu/course/view.php?id=57160)
 
 
-## Lec 04-2 - Tue 9/29: k-Nearest Neighbors
+
+## Lec 06-2 - Thu 10/15: Cross validation
+
+### Admin
+
+### Class
+
+
+
+
+
+## Lec 05-2 - Thu 10/8: k-Nearest Neighbors
+
+### Admin
+
+- Photo of essay discussion points added to `lec05-1-essay_discussion/` folder
+- HW1 feedback published in [`HW_feedback.md`](HW_feedback.md)
+- Solutions to `lab04-2` on transformations, scaling, pipelines posted
+
+
+### Class
+
+- Lecture: k-Nearest Neighbors (knn)
+- Work on PS1 in groups.
+  - What is a [Minimum Viable Product](images/MVP.png)
+- `HW5` on kNN assigned. **Only Question 1 due on 10/15, Question 2 will be due on 10/22**
+  - Accept `HW5` [here](https://classroom50.org/2026-09-SDS293/2026-09-sds293-modeling-for-machine-lear/assignments/hw5/accept). Look at the instructions for cloning `HW2` to ensure you don't clone the `HW5` repo inside another repo.
+  - You will be submitting your completed versions of `lab05-2` kNN 
+
+## Lec 05-1 - Tue 10/6: Collaborating in Git & PS1
+
+### Admin
+
+- Please sit next to your [PS1 group partner](https://docs.google.com/spreadsheets/d/e/2PACX-1vSqP8n3SVX4nqgHFFRZ-Esp7jLZrEnU_cEzYV-yJbTyfzQPVMWioL2sxeFmvLe9Le-OWEd04Tx6Q3TA/pubhtml?gid=518669777&single=true)
+- PS1 assigned today, due Thu 10/22 
+- Solutions to HW2 `lab03-1` DBSCAN and `lab03-2` PCA posted in respective folders
+
+### Class
+
+- Problem Set 1
+    - Ice breaker: Describe one aspect of your life where your approach is to "overfit" i.e. over-optimize to the situation. Ex: "When I pack for a trip, I make a spreadsheet with a column for every day, the forecast, the activities, and which outfit goes with which. If the plans change, I'm stuck."
+    - Establish partnership dynamics:
+        - (No shame in this game) Do you tend to start early, or leave things last minute?
+        - What's your preferred method for being held accountable? Slack, text, in-person talks etc?
+        - Is there anything going on in your life right now that might affect your ability to contribute? For sensitive matters, no need to go into explicit details
+    - Accept `PS1` [here](https://classroom50.org/2026-09-SDS293/2026-09-sds293-modeling-for-machine-lear/assignments/problem-set-1/accept). Look at the instructions for cloning `HW2` to ensure you don't clone the `PS1` repo inside another repo.
+- Quiz at 11:30am. Always check both sides of page for questions
+- In-class discussion
+    - Pair/share: Discuss your impressions of essay with PS1 partner, then we'll share with class
+    - Reveal of author
+
+
+
+## Lec 04-2 - Tue 9/29: Transformations, scaling & pipelines
 
 ### Admin
 
@@ -14,12 +67,12 @@
 - Slack
     - Go to `#general` and answer poll on when to do quizzes during lecture.
     - See my post in `#questions`
-- Problem Set 1 assigned on Monday (In groups)
+- Problem Set 1 assigned on Tuesday (In groups)
 
 
 ### Class
 
-- Lecture: Finish Lec04-1 Intro to Supervised Learnings
+- Lecture: Finish Lec04-1 Intro to Supervised Learning
 - Lecture: Transformations, scaling, and pipelines
 - `HW4` on transformations, scaling, and pipelines assigned
   - Accept `HW4` [here](https://classroom50.org/2026-09-SDS293/2026-09-sds293-modeling-for-machine-lear/assignments/hw4/accept). Look at the instructions for cloning `HW2` to ensure you don't clone the `HW4` repo inside another repo.
